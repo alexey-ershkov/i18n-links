@@ -1,1 +1,17 @@
-# i18n-links
+# Полезные ссылки из доклада "Интернационализация - что ты такое?"
+
+- [Языковые теги](https://www.w3.org/International/questions/qa-choosing-language-tags.ru)
+- [CLDR](https://github.com/unicode-org/cldr)
+- [INTL API](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Intl)
+- [Format JS](https://formatjs.github.io/)
+- [Ling UI](https://lingui.dev/)
+- [i18next](https://www.i18next.com/)
+- [ICU Message Format](https://unicode-org.github.io/icu/userguide/)
+- [ICU Playground](https://format-message.github.io/icu-message-format-for-translators/editor.html)
+- [Writing Mode Example](https://huijing.github.io/zh-type/)
+- [RTL Guide](https://rtlstyling.com/)
+- [Pseudolocaliziion Netflix](https://netflixtechblog.com/pseudo-localization-netflix-12fff76fbcbe)
+- [Pseudolocaliziion Unity](https://docs.unity3d.com/Packages/com.unity.localization@0.6/manual/Pseudo-Localization.html)
+- [Smartcat](https://ru.smartcat.com/)
+- [Localize](https://localizejs.com/)
+- [Доклад Сергея Володина про i18n](https://www.youtube.com/watch?v=xXVWDrdn5tM&t=2242s&pp=ygUMZGpramxieSBpMThu)
